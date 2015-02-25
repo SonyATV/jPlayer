@@ -31,7 +31,7 @@
                 "dist/jplayer/jquery.jplayer.js"
             ],
             "files": [
-                "dist"
+                "dist/**"
             ],
             "shim": {
                 "deps": ["jquery"]
